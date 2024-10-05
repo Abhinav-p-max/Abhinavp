@@ -31,6 +31,12 @@
     padding: 10px;
     font-size: 18px;
 }
+#navbar ul li b {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
 
 /* Welcome Section */
 #welcome-section {
